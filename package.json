@@ -1,0 +1,22 @@
+{
+  "name": "plottwist-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free open-source AI drama generator - Create 3D Pixar-style scenes",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.1"
+  }
+}
